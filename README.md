@@ -14,7 +14,7 @@
   <a href="#features">Recursos</a> &#xa0; | &#xa0;
   <a href="#techs">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#requirements">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#start">Começar</a> &#xa0; | &#xa0;
+  <a href="#start">Começar</a> 
 </p>
 
 <br>
