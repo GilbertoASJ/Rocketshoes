@@ -31,14 +31,14 @@ Rocketshoes é um aplicativo desenvolvido com desafio na trilha ReactJS do Ignit
 
 <div id="features" ></div>
 
-## :sparkles: Features ##
+## :sparkles: Recursos ##
 :heavy_check_mark: Adicionar produtos à lista do carrinho de compras;\
 :heavy_check_mark: Aumente e diminua os produtos na lista do carrinho;\
 :heavy_check_mark: Remover itens da lista do carrinho de compras;
 
 <div id="techs" ></div>
 
-## :rocket: Technologies ##
+## :rocket: Tecnologias ##
 
 -  [ReactJS](https://reactjs.org/)
 -  [React Router](https://github.com/ReactTraining/react-router)
@@ -63,7 +63,7 @@ Rocketshoes é um aplicativo desenvolvido com desafio na trilha ReactJS do Ignit
 
 ```bash
 # Cloning project
-$ git clone https://github.com/GilbertoASJ/Rocketshoes
+$ git clone https://github.com/GilbertoASJ/Rocketshoes.git
 
 # Enter in project folder
 $ cd Rocketshoes
