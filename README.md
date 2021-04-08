@@ -10,13 +10,11 @@
 
 
 <p align="center">
-  <a href="#about">About</a> &#xa0; | &#xa0; 
-  <a href="#features">Features</a> &#xa0; | &#xa0;
-  <a href="#techs">Technologies</a> &#xa0; | &#xa0;
-  <a href="#requirements">Requeriments</a> &#xa0; | &#xa0;
-  <a href="#start">Start</a> &#xa0; | &#xa0;
-  <a href="https://moesiomarcelino.dev" target="_blank">Author</a> &#xa0; | &#xa0;
-  <a href="https://rocketshoes.moesiomarcelino.dev" target="_blank">Demo</a>
+  <a href="#about">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#features">Recursos</a> &#xa0; | &#xa0;
+  <a href="#techs">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#requirements">Requisitos</a> &#xa0; | &#xa0;
+  <a href="#start">Começar</a> &#xa0; | &#xa0;
 </p>
 
 <br>
@@ -35,8 +33,8 @@ Rocketshoes é um aplicativo desenvolvido com desafio na trilha ReactJS do Ignit
 
 ## :sparkles: Features ##
 :heavy_check_mark: Adicionar produtos à lista do carrinho de compras;\
-:heavy_check_mark: Increment and Decrement products on cart list;\
-:heavy_check_mark: Remove items from shopping cart list;
+:heavy_check_mark: Aumente e diminua os produtos na lista do carrinho;\
+:heavy_check_mark: Remover itens da lista do carrinho de compras;
 
 <div id="techs" ></div>
 
@@ -50,18 +48,18 @@ Rocketshoes é um aplicativo desenvolvido com desafio na trilha ReactJS do Ignit
 -  [styled-components](https://www.styled-components.com/)
 -  [React-Icons](https://react-icons.netlify.com/)
 -  [json-server](https://github.com/typicode/json-server)
--  [VS Code](https://code.visualstudio.com) with [EditorConfig](https://editorconfig.org) and [ESLint](https://eslint.org)
+-  [VS Code](https://code.visualstudio.com) com [EditorConfig](https://editorconfig.org) e [ESLint](https://eslint.org)
 
 <div id="requirements" ></div>
 
-## :white_check_mark: Requeriments ##
+## :white_check_mark: Requisitos ##
 
 - [Git](https://git-scm.com)
 - [Node](https://nodejs.org/en/)
 
 <div id="start" ></div>
 
-## :checkered_flag: Start ##
+## :checkered_flag: Começar ##
 
 ```bash
 # Cloning project
